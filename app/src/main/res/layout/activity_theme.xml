@@ -70,6 +70,7 @@
 
         <CheckBox
                 android:id="@+id/checkbox_sync_automatically"
+                style="?check"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignBaseline="@+id/tvSync"

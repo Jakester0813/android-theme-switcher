@@ -9,5 +9,6 @@
     <attr name="whiteBackground" format="reference" />
     <attr name="button" format="reference" />
     <attr name="spinner" format="reference" />
+    <attr name="check" format="reference" />
 
 </resources>

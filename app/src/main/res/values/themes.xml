@@ -13,8 +13,16 @@
         <item name="actionBarStyle">@style/action_bar_wh</item>
     </style>
 
-    <style name="Theme.YOUR_CUSTOM_THEME" parent="Theme.AppCompat.Light">
-        <!-- Define styles for YOUR_CUSTOM_THEME here. -->
+    <style name="Theme.Breakout.Sixteen" parent="Theme.AppCompat.Light">
+        <item name="pageBackground">@style/page_background_bs</item>
+        <item name="textSubheader">@style/text_subheader_bs</item>
+        <item name="textLarge">@style/text_large_bs</item>
+        <item name="textRegular">@style/text_regular_bs</item>
+        <item name="whiteBackground">@style/white_background_wh</item>
+        <item name="button">@style/button_bs</item>
+        <item name="spinner">@style/spinner_wh</item>
+        <item name="check">@style/check_bs</item>
+        <item name="actionBarStyle">@style/action_bar_bs</item>
     </style>
 
 </resources>
